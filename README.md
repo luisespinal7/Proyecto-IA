@@ -3,7 +3,7 @@ El presente proyecto es realizado en JupyterLab con Python, en él se realiza el
 
 Integrantes:
 
-Wendys paola Ramirez Mendez   20141010094
+Wendys Paola Ramirez Mendez   20141010094
 
 Rovin Mendoza Rivas           20141011384
 
